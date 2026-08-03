@@ -10,7 +10,7 @@
 
 ## Overview
 
-Modern cybersecurity relies heavily on encryption to protect sensitive information. While encryption secures the contents of a file, it does not hide the existence of that file. Encrypted data can still attract attention and become a target for attackers.
+Modern cybersecurity relies heavily on encryption to protect sensitive information. While encryption secures the contents of a file, it does not hide the existence of that file. Encrypted data can still attract attention and become a target for attackers. ps: the name Hideout is just how i called my program.
 
 This project explores **steganography** as an additional security layer by concealing confidential information inside digital media files. Instead of simply encrypting data, the application hides its very existence, providing an extra layer of protection for secure communication.
 
